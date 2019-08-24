@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502b613c-7045-49af-8905-cb0817c812a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seoul_crime/crime_police.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seoul_crime/data/crime_in_seoul.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seoul_crime/cctv_pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/cctv_pop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seoul_crime/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seoul_crime/crime_police.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/crime_police.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seoul_crime/data_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_crime/data_reader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
