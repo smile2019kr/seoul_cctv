@@ -43,6 +43,8 @@ class DataReader:
     def create_gmaps(self):
         return googlemaps.Client(key='...')
     # key값은 개인정보이므로 깃허브 백업시에는 공란으로 둘것
+    # (정보기재상태로 백업 후 정보삭제하여 다시 백업한다고 해도 기존에 백업된 정보가 남아있으므로 백업 시 아예 삭제한 상태로 백업하는것이 중요함)
+
 
 
 
